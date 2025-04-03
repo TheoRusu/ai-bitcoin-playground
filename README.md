@@ -6,11 +6,11 @@
 ## 🔥 Week 1: Foundations
 
 ### ✅ Dev Setup
-- [ ] VSCode installed
-- [ ] Git + GitHub configured
-- [ ] Postman installed
-- [ ] Docker installed
-- [ ] `ai-bitcoin-playground` repo created
+- [x] VSCode installed
+- [x] Git + GitHub configured
+- [x] Postman installed
+- [x] Docker installed
+- [x] `ai-bitcoin-playground` repo created
 
 ---
 
